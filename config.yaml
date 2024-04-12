@@ -1,0 +1,5 @@
+#需要自行修改的值
+delay: 3   #值越高检测时间越长但准确率更高，值越低运行越快但不够准确，建议3~5
+dll_names_paths: dll_name.txt  #copy出来的所有dll文件路径
+destination_dir: C:\Program Files (x86)\Netease\UUVoice   #白程序所在路径，最后不要加 \
+exe_name: UUVoice.exe #白程序名称

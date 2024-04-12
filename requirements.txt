@@ -1,0 +1,5 @@
+progress==1.6
+psutil==5.9.8
+pywin32==306
+PyYAML==6.0.1
+tqdm==4.66.1
